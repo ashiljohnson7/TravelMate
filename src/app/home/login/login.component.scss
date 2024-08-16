@@ -1,0 +1,221 @@
+/* Background Gradient */
+
+
+/* Fixed Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  padding: 15px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
+
+.logo {
+  height: 40px;
+  margin-left: 20px;
+}
+
+nav {
+  margin-right: 20px;
+}
+
+nav a {
+  color: orange; /* Orange color for the navigation links */
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Adjust container for fixed navbar */
+.container {
+  margin-top: 80px; /* Adjust for the height of the navbar */
+}
+
+
+
+.container {
+  height: 90vh; /* Matches the registration component height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 50px;
+}
+
+.form-container {
+  width: 450px; /* Matches the registration form width */
+  border-radius: 20px; /* Matches the registration form border radius */
+  background-color: #1a1a1a;
+  padding: 25px;
+  color: #fff;
+  border: 1px solid #333;
+}
+
+.title {
+  text-align: center;
+  font-size: 28px; /* Matches the registration form font size */
+  font-weight: 600;
+  color: rgba(255, 165, 0, 1); /* Orange color */
+  margin-bottom: 0;
+}
+
+.form {
+  margin-top: 1.5rem;
+}
+
+.input-group {
+  width: 80%;
+  margin-top: 0.75rem; /* Adjust for better spacing */
+  font-size: 14px;
+  padding: 0px 20px; 
+  margin-left: 15px; /* Matches the registration form font size */
+}
+
+.input-group label {
+  display: block;
+  color: rgba(255, 165, 0, 1); /* Orange color */
+  margin-bottom: 4px;
+}
+
+.input-group input {
+  width: 100%;
+  border-radius: 10px; /* Matches the registration form input radius */
+  border: 1px solid rgba(255, 165, 0, 1); /* Orange border */
+  background-color: #333;
+  padding: 0.75rem;
+  color: rgba(255, 165, 0, 1); /* Orange text color */
+}
+
+.input-group input:focus {
+  border-color: rgba(255, 165, 0, 1); /* Orange border on focus */
+}
+
+.forgot {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 14px;
+  color: rgba(255, 165, 0, 1); /* Orange color */
+  margin: 8px 0 14px 0;
+}
+
+.forgot a {
+  color: rgba(255, 165, 0, 1); /* Orange color for the link */
+}
+
+.forgot a:hover {
+  text-decoration: underline rgba(255, 165, 0, 1);
+}
+
+.sign {
+  display: block;
+  width: 50%;
+  background-color: rgba(255, 165, 0, 1); /* Orange background */
+  padding: 15px;
+  text-align: center;
+  color: #1a1a1a;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  margin-left: 110px;
+  margin-top: 1.5rem;
+}
+
+.social-message {
+  display: flex;
+  align-items: center;
+  padding-top: 1rem;
+}
+
+.line {
+  height: 1px;
+  flex: 1;
+  background-color: rgba(55, 65, 81, 1);
+}
+
+.social-message .message {
+  padding: 0 0.75rem;
+  font-size: 14px;
+  color: rgba(156, 163, 175, 1);
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons .icon {
+  border-radius: 0.125rem;
+  padding: 0.75rem;
+  border: none;
+  background-color: transparent;
+  margin-left: 8px;
+}
+
+.social-icons .icon svg {
+  height: 1.25rem;
+  width: 1.25rem;
+  fill: #fff;
+}
+
+.signup {
+  text-align: center;
+  font-size: 14px;
+  color: rgba(255, 165, 0, 1);
+}
+.signup a {
+  color: rgba(255, 165, 0, 1); /* Orange color for the link */
+  text-decoration: none; /* Remove underline from the link */
+}
+
+.signup a:hover {
+  text-decoration: underline rgba(255, 165, 0, 1); /* Underline on hover */
+}
+
+
+
+/*black and white*/
+.split-container {
+  display: flex;
+  height: 100vh; // Full height
+}
+
+// White Section Styles
+.white-section {
+  width: 75%;
+  background-color: white;
+  padding: 2rem;
+  position: relative;
+}
+
+// Black Section Styles
+.black-section {
+  width: 25%;
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+// Hover effect on Black Section
+.black-section:hover {
+  content: 'New Text on Hover'; // Example hover effect
+}
+
+// Additional Styles
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial, sans-serif';
+}

@@ -1,0 +1,24 @@
+.video-container {
+  position: relative;
+  margin: 1rem;
+  display: inline-block;
+  width: 30%; /* Adjust as needed */
+  height: auto;
+}
+
+.video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.video-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 0.5rem;
+  width: 100%;
+  text-align: center;
+}

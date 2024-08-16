@@ -1,0 +1,195 @@
+// Base styles
+body {
+    font-family: 'Arial, sans-serif';
+    color: #f0f0f0;
+    background-color: #1e1e1e; // Dark background for the rest of the page
+    margin: 0;
+    padding: 0;
+}
+
+// Background Image Container
+.background-container {
+    position: relative;
+    width: 100%;
+    height: 550px; // Adjust the height as needed
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+// Logo styling
+.logo-link {
+    position: absolute;
+    top: 20px; // Adjust position as needed
+    left: 20px; // Adjust position as needed
+    z-index: 2; // Ensure the logo is on top of other elements
+    text-decoration: none; // Remove underline from the link
+
+    .logo {
+        top: -50px;
+        width: 200px; // Adjust the size as needed
+        height: auto;
+    }
+}
+
+// Text Image Container
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+    .text-image {
+        transition: transform 0.3s ease-in-out;
+        display: inline-block; // Adjust size to fit the image
+
+        img {
+            max-width: 100%; // Ensure image fits within the container
+            height: auto;
+        }
+
+        &:hover {
+            transform: scale(1.2); // More zoom-in effect on hover
+        }
+    }
+}
+
+// Navigation styles
+nav {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+
+    ul.nav-list {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin: 0;
+
+        li {
+            margin: 0 1rem;
+
+            a {
+                text-decoration: none;
+                color: #ff6600; // Orange color for navigation text
+                font-weight: bold;
+
+                &:hover {
+                    color: #cc5200; // Slightly darker orange on hover
+                }
+            }
+        }
+    }
+}
+
+// Main section styles
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.split-container {
+  display: flex;
+  height: 100vh; // Full viewport height
+}
+
+.black-section {
+  background-color: black;
+  color: white;
+  width: 25%;
+  height: 100%;
+  position: relative;
+  padding: 1rem;
+  z-index: 1; /* Ensure it is above other sections */
+}
+
+.white-section {
+  background-color: white;
+  width: 75%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative; /* Positioning context for the diamond container */
+}
+
+.diamond-container {
+  position: relative;
+  width: 650px; /* Adjust the size of the diamond container */
+  height: 300px; /* Adjust the size of the diamond container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-container {
+  position: absolute;
+  width: 250px; /* Reduce the size of the video containers */
+  height: 200px; /* Reduce the size of the video containers */
+  overflow: hidden;
+}
+
+.video-container video {
+  width: 90%;
+  height: auto;
+  object-fit: cover;
+}
+
+.video-container.top {
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.video-container.right {
+  right:-30%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.video-container.bottom {
+  bottom: 0;
+  left: 45%;
+  transform: scale(0.4); 
+  transform: translate(-50%, 50%);
+  width: 45%; /* Adjusted width for the go video */
+  height: 65%;
+}
+
+.video-container.left {
+  left: 0;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hover-text {
+  font-size: 40px; /* Increase font size */
+  color: #ff6600; /* Orange color */
+  font-weight: bold;
+  position: absolute;
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Ensure it is above other content */
+}

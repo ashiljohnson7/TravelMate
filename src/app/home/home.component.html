@@ -1,0 +1,65 @@
+<header>
+  <div class="background-container">
+      <img src="assets/lake.jpg" class="background-image" alt="Background Image">
+      <a href="/home" class="logo-link">
+        <img src="assets/logo.png" alt="Logo" class="logo">
+      </a>
+      <div class="text-overlay">
+          <div class="text-image">
+              <img src="assets/orangee.png" alt="Text Image">
+          </div>
+      </div>
+      <nav>
+          <ul class="nav-list">
+              <li><a routerLink="/home">Home</a></li>
+              <li><a routerLink="/about">About</a></li>
+              <li><a routerLink="/services">Services</a></li>
+              <li><a routerLink="/contact">Contact</a></li>
+              <li><a routerLink="/login">Login</a></li>
+              <li><a routerLink="/registration">Register</a></li>
+          </ul>
+      </nav>
+  </div>
+</header>
+<main>
+  <div class="split-container">
+    <div class="black-section">
+      <div class="hover-text" *ngIf="hoverText">
+        <p>{{ hoverText }}</p>
+      </div>
+    </div>
+    <div class="white-section">
+      <div class="diamond-container">
+        <div class="video-container top" (click)="enableVideoPlayback($event)">
+          <a [routerLink]="['/destination']">
+            <video class="content" loop (mouseover)="playVideo('Discover and Explore a Curated Selection of Exciting Travel Destinations')" (mouseout)="pauseVideo()">
+              <source src="/assets/world.mp4">
+            </video>
+          </a>
+        </div>
+        <div class="video-container right" (click)="enableVideoPlayback($event)">
+          <a [routerLink]="['/flight']">
+          <video class="content" onmouseover="this.play()" (mouseover)="playVideo('Seamlessly arrange your entire journey by securing hotel accommodations, flight reservations, and comprehensive travel packages')" onmouseout="this.pause();">
+            <source src="/assets/checklist.mp4">
+          </video>
+          </a>
+        </div>
+        <div class="video-container bottom" (click)="enableVideoPlayback($event)">
+          <video class="content"  onmouseover="this.play()" (mouseover)="playVideo('ALL SET! Enjoy')" onmouseout="this.pause();">
+            <source src="/assets/go.mp4">
+          </video>
+        </div>
+        <div class="video-container left" (click)="enableVideoPlayback($event)">
+          <video class="content"  onmouseover="this.play()" (mouseover)="playVideo('ALL SET! Enjoy')" onmouseout="this.pause();">
+            <source src="/assets/photo.mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+<footer>
+  <p>&copy; 2024 Your Company. All rights reserved.</p>
+</footer>
