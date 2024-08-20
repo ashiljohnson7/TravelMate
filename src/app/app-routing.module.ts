@@ -5,6 +5,7 @@ import { LoginComponent } from './home/login/login.component';
 import { RegistrationComponent } from './home/registration/registration.component'; 
 import { DestinationComponent } from './destination/destination.component';
 import { FlightComponent } from './flight/flight.component';
+import { DisplayFlightsComponent } from './display-flights/display-flights.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
@@ -12,6 +13,7 @@ const routes: Routes = [
   { path: 'registration', component: RegistrationComponent },
   { path: 'destination', component: DestinationComponent },
   { path: 'flight', component: FlightComponent },
+  { path:'display-flights', component: DisplayFlightsComponent},
   { path: '', redirectTo: '/home', pathMatch: 'full' } // Default route
   // other routes can be added here
 ];
