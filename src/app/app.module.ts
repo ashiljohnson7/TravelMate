@@ -11,6 +11,7 @@ import { BlackSectionComponent } from './home/black-section/black-section.compon
 import { HoverService } from './hover.service';
 import { DestinationComponent } from './destination/destination.component';
 import { FlightComponent } from './flight/flight.component';
+import { DisplayFlightsComponent } from './display-flights/display-flights.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { FlightComponent } from './flight/flight.component';
     WhiteSectionComponent,
     BlackSectionComponent,
     DestinationComponent,
-    FlightComponent
+    FlightComponent,
+    DisplayFlightsComponent
   ],
   imports: [
     BrowserModule,

@@ -1,1 +1,26 @@
-<p>flight works!</p>
+<div class="background-container">
+  <img src="assets/lake.jpg" class="background-image" alt="Background Image">
+</div>
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+  <a href="#login">Login</a>
+</div>
+<div class="form-container">
+  <h1>Search</h1>
+  <div class="form-field">
+    <label for="from">From:</label>
+    <input type="text" id="from" name="from">
+  </div>
+  <div class="form-field">
+    <label for="to">To:</label>
+    <input type="text" id="to" name="to">
+  </div>
+  <div class="form-field">
+    <label for="date">Date:</label>
+    <input type="date" id="birthday" name="birthday">
+  </div>
+  <a routerLink="/display-flights"><button type="submit">Search</button></a>
+</div>
