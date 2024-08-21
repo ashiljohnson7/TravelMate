@@ -1,0 +1,34 @@
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.deps.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.csproj.AssemblyReference.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.AssemblyInfoInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.AssemblyInfo.cs
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMa.A05B80F8.Up2Date
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\refint\TravelMate.BuisnessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\ref\TravelMate.BuisnessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DataAcessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DataAcessLayer.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.deps.json
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DataAcessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DataAcessLayer.pdb
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.csproj.AssemblyReference.cache
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.AssemblyInfoInputs.cache
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.AssemblyInfo.cs
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMa.A05B80F8.Up2Date
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\refint\TravelMate.BuisnessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate.WebAPI\TravelMate.BuisnessLayer\obj\Debug\net8.0\ref\TravelMate.BuisnessLayer.dll

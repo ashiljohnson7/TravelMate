@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TravelMate.ASP.NETWebAPI.props" />
+</Project>

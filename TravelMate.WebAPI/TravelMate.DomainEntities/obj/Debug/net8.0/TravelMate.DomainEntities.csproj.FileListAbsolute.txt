@@ -1,0 +1,22 @@
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.deps.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.AssemblyInfoInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.AssemblyInfo.cs
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.csproj.CoreCompileInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\refint\TravelMate.DomainEntities.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\ref\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.deps.json
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.AssemblyInfoInputs.cache
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.AssemblyInfo.cs
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.csproj.CoreCompileInputs.cache
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\refint\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate.WebAPI\TravelMate.DomainEntities\obj\Debug\net8.0\ref\TravelMate.DomainEntities.dll

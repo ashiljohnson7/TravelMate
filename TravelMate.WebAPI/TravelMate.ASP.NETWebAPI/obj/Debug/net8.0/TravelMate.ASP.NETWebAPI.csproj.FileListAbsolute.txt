@@ -1,0 +1,92 @@
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\appsettings.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.exe
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.deps.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.runtimeconfig.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Dapper.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DataAcessLayer.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DataAcessLayer.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.csproj.AssemblyReference.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.AssemblyInfoInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.AssemblyInfo.cs
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.csproj.CoreCompileInputs.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.TravelMate.ASP.NETWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\scopedcss\bundle\TravelMate.ASP.NETWebAPI.styles.css
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMa.DD21584E.Up2Date
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\refint\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.pdb
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.genruntimeconfig.cache
+C:\TravelMate\TravelMateApplication\New folder\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\ref\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\appsettings.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.exe
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.deps.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.runtimeconfig.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.ASP.NETWebAPI.pdb
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Dapper.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.BuisnessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DataAcessLayer.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DomainEntities.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.BuisnessLayer.pdb
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DataAcessLayer.pdb
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\bin\Debug\net8.0\TravelMate.DomainEntities.pdb
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.csproj.AssemblyReference.cache
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.AssemblyInfoInputs.cache
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.AssemblyInfo.cs
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.csproj.CoreCompileInputs.cache
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.TravelMate.ASP.NETWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TravelMate.ASP.NETWebAPI.props
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\scopedcss\bundle\TravelMate.ASP.NETWebAPI.styles.css
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMa.DD21584E.Up2Date
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\refint\TravelMate.ASP.NETWebAPI.dll
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.pdb
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\TravelMate.ASP.NETWebAPI.genruntimeconfig.cache
+C:\TravelMate.WebAPI\TravelMate.ASP.NETWebAPI\obj\Debug\net8.0\ref\TravelMate.ASP.NETWebAPI.dll
