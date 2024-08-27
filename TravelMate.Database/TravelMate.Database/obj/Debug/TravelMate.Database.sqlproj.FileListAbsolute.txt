@@ -1,0 +1,6 @@
+C:\TravelMate\TravelMate.Database\TravelMate.Database\bin\Debug\TravelMate.Database.dacpac
+C:\TravelMate\TravelMate.Database\TravelMate.Database\bin\Debug\TravelMate.Database.dll
+C:\TravelMate\TravelMate.Database\TravelMate.Database\bin\Debug\TravelMate.Database.pdb
+C:\TravelMate\TravelMate.Database\TravelMate.Database\obj\Debug\TravelMate.Database.sqlproj.AssemblyReference.cache
+C:\TravelMate\TravelMate.Database\TravelMate.Database\obj\Debug\TravelMate.Database.dll
+C:\TravelMate\TravelMate.Database\TravelMate.Database\obj\Debug\TravelMate.Database.pdb
