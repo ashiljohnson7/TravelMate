@@ -94,6 +94,40 @@ nav {
     }
 }
 
+.adventure-content {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  background-color: #f9f9f9; /* Light background color for contrast */
+  
+  .adventure-image {
+    width: 800px; /* Adjust image width as needed */
+    height: auto;
+    margin-left: -35px;
+    margin-right: 40px; /* Space between image and text */
+    border-radius: 8px; /* Optional: Rounded corners for image */
+    position: relative; /* To use for vertical alignment adjustment */
+    margin-top: -20px; /* Adjust this value to move the image up */
+  }
+  
+  .adventure-text {
+    max-width: 600px;
+    color: #333; /* Text color */
+    
+    h2 {
+      font-size: 28px;
+      margin-bottom: 20px;
+      color: #ff6600; /* Heading color */
+    }
+    
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+  }
+}
+
 // Main section styles
 html, body {
   height: 100%;
@@ -109,87 +143,84 @@ main {
   flex: 1;
 }
 
-.split-container {
+.container {
   display: flex;
-  height: 100vh; // Full viewport height
+  flex-direction: column;
+  gap: 20px;
 }
 
-.black-section {
-  background-color: black;
-  color: white;
-  width: 25%;
-  height: 100%;
-  position: relative;
-  padding: 1rem;
-  z-index: 1; /* Ensure it is above other sections */
+a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Ensure link inherits text color */
+
+  &:hover {
+    cursor: pointer;
+  }
 }
 
-.white-section {
-  background-color: white;
-  width: 75%;
-  height: 100%;
+.row {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative; /* Positioning context for the diamond container */
-}
-
-.diamond-container {
-  position: relative;
-  width: 650px; /* Adjust the size of the diamond container */
-  height: 300px; /* Adjust the size of the diamond container */
-  display: flex;
-  justify-content: center;
+  width: 100%;
   align-items: center;
 }
 
-.video-container {
-  position: absolute;
-  width: 250px; /* Reduce the size of the video containers */
-  height: 200px; /* Reduce the size of the video containers */
-  overflow: hidden;
+.description {
+  width: 55%;
+  font-size: 18px;
+  color: #555;
+  padding-right: 10px;
 }
 
-.video-container video {
-  width: 90%;
-  height: auto;
-  object-fit: cover;
-}
+.video-wrapper {
+  width: 15%;
 
-.video-container.top {
-  top: 0;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.video-container.right {
-  right:-30%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.video-container.bottom {
-  bottom: 0;
-  left: 45%;
-  transform: scale(0.4); 
-  transform: translate(-50%, 50%);
-  width: 45%; /* Adjusted width for the go video */
-  height: 65%;
-}
-
-.video-container.left {
-  left: 0;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  video {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .hover-text {
-  font-size: 40px; /* Increase font size */
-  color: #ff6600; /* Orange color */
-  font-weight: bold;
-  position: absolute;
-  top: 50%; /* Center vertically */
-  left: 50%; /* Center horizontally */
-  transform: translate(-50%, -50%);
-  z-index: 2; /* Ensure it is above other content */
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:black;
+  color: orangered;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+
+  &.show {
+    opacity: 1;
+  }
+
+  p {
+    font-size: 24px;
+    color: #ff6600;
+    text-align: center;
+  }
 }
+
+.experience-section {
+  margin-top: 40px;
+  margin-bottom: 100px;
+  text-align: center;
+  padding: 30px 40px;
+  background-color: #000; /* Set the background to black */
+  color:white; /* Change text color to white for contrast */
+
+  h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #ff6600; /* Keep the orange color for the heading */
+  }
+
+  p {
+    font-size: 17px; /* Increase the font size */
+    max-width: 900px; /* Limit the width of the text block */
+    margin: 0 auto; /* Center the text block horizontally */
+    line-height: 1.8;
+  }
+}
+
+
