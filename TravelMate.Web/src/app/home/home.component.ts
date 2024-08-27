@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { HoverService } from '../hover.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
@@ -7,50 +7,30 @@ import { HoverService } from '../hover.service';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
-  hoverText: string = '';
+  hoverStates: boolean[] = [];
 
-  constructor(private hoverService: HoverService) {
-    this.hoverService.hover$.subscribe(value => {
-      this.hoverText = value;
-    });
-  }
+  videos = [
+    { src: '/assets/world.mp4', 
+      description: 'Dive into a handpicked collection of thrilling travel spots designed to ignite your wanderlust. From hidden gems to iconic landmarks, our carefully selected destinations promise unforgettable experiences and unique adventures tailored just for you. Explore the world with confidence and curiosity, knowing each location has been chosen for its exceptional charm and appeal.', 
+      hoverText: 'Discover and Explore a Curated Selection of Exciting Travel Destinations',
+      internalRoute: '/destination'
+    },
+    { src: '/assets/checklist.mp4', 
+      description: 'Arrange every aspect of your trip with ease by securing top-notch hotel accommodations, convenient flight reservations, and all-inclusive travel packages. Whether you are seeking a cozy retreat, a luxury stay, or a seamless travel experience, we got you covered from start to finish, ensuring your journey is as smooth and enjoyable as possible.', 
+      hoverText: 'Effortlessly Plan Your Perfect Getaway',
+      internalRoute: '/flight' },
 
-  setHoverText(text: string) {
-    this.hoverService.setHoverValue(text);
-  }
+    // Add more video objects as needed
+  ];
 
-  clearHoverText() {
-    this.hoverService.setHoverValue('');
+  constructor(private router: Router) {
+    this.hoverStates = Array(this.videos.length).fill(false);
   }
-
-  playVideo(text: string) {
-    const videoElements = document.querySelectorAll('.content');
-    videoElements.forEach(video => {
-      if (video instanceof HTMLVideoElement) {
-        video.play().catch(error => {
-          console.error('Error attempting to play video:', error);
-        });
-      }
-    });
-    this.hoverService.setHoverValue(text);
+  
+  onHover(index: number, state: boolean) {
+    this.hoverStates[index] = state;
   }
-
-  pauseVideo() {
-    const videoElements = document.querySelectorAll('.content');
-    videoElements.forEach(video => {
-      if (video instanceof HTMLVideoElement) {
-        video.pause();
-      }
-    });
-    this.hoverService.setHoverValue('');
-  }
-  enableVideoPlayback(event: Event) {
-    const videoElement = (event.currentTarget as HTMLElement).querySelector('video');
-    if (videoElement) {
-      videoElement.muted = true; // Optional: Mute the video to allow autoplay
-      videoElement.play().catch(error => {
-        console.warn('Error attempting to play video:', error);
-      });
-    }
+  onNavigate(route: string) {
+    this.router.navigate([route]); // Internal routing using Angular's router
   }
 }

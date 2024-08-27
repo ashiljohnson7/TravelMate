@@ -1,1 +1,49 @@
-<p>destination works!</p>
+<div class="navbar">
+    <a href="/home">
+    <img src="/assets/logo.png" alt="Logo" class="logo">
+    </a>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">Profile</a>
+    </nav>
+</div>
+
+
+<div class="main-section">
+    <h1>Where would you like to go?</h1>
+    
+    <div class="image-grid">
+      <div *ngFor="let image of images" class="image-item">
+        <a [routerLink]="image.link">
+            <div class="image-wrapper">
+                <img [src]="image.src" [alt]="image.alt">
+                <div class="overlay-text">{{ image.overlayText }}</div>
+              </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="global-adventures">
+    <div class="adventure-content">
+        <img src="assets/best.jpeg" alt="Best Image" class="adventure-image">
+        <div class="adventure-text">
+            <h2>Top Global Adventures</h2>
+            <p><strong>Pacific Wonders:</strong> Explore Fiji’s beaches, New Zealand’s vibrant cities, and the wild landscapes of Papua New Guinea.</p>
+            <p><strong>Tropical Escapes:</strong> Discover Costa Rica’s rainforests, Belize’s coral reefs, and the peaceful shores of Mauritius.</p>
+            <p><strong>Nordic Marvels:</strong> Chase the northern lights in Norway, soak in Iceland’s hot springs, and sail through Greenland’s fjords.</p>
+            <p><strong>Southern Hemisphere:</strong> Experience South Africa’s wine country, Patagonia’s glaciers, and the wildlife of Madagascar.</p>
+            <p><strong>Asian Treasures:</strong> Visit Bhutan’s Himalayas, Vietnam’s rice terraces, and Cambodia’s ancient ruins.</p>
+            <p><strong>Eastern Europe Gems:</strong> Wander Estonia’s medieval towns, Croatia’s lakes, and Bulgaria’s Black Sea coast.</p>
+            <p><strong>Middle Eastern Mysteries:</strong> Journey through Jordan’s deserts, Iran’s ancient sites, and Oman’s rugged mountains.</p>
+        </div>
+    </div>
+</div>
+<div class="experience-section">
+    <h2>The TravelMate Experience</h2>
+    <p>
+      At TravelMate, we bring you a world of adventure and luxury, providing exceptional travel experiences at unbeatable value. Let us guide you to your dream destinations and create memories that last a lifetime. We ensure every trip is carefully curated, with personalized services and exclusive offers, making your journey as unique as you are. Whether you're seeking breathtaking landscapes, vibrant cultures, or serene getaways, TravelMate has the perfect itinerary tailored for you.
+    </p>
+  </div>
+  

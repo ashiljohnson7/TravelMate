@@ -22,44 +22,43 @@
   </div>
 </header>
 <main>
-  <div class="split-container">
-    <div class="black-section">
-      <div class="hover-text" *ngIf="hoverText">
-        <p>{{ hoverText }}</p>
-      </div>
+    <div class="adventure-content">
+        <img src="assets/adv.jpg" alt="Best Image" class="adventure-image">
+        <div class="adventure-text">
+          <h2>A World of Adventures</h2>
+          <p>One world, countless journeys. The most breathtaking destinations are waiting to be explored. Whether you're dreaming of a serene tropical retreat or envisioning awe-inspiring, snow-covered peaks, just know that TravelMate is here to guide you every step of the way.</p>
+          <p>We believe every adventure should be as unique as you are, and our experienced travel experts know exactly how to craft an unforgettable journey. From quick weekend escapes and dream vacations to grand multi-destination tours, the world is ready and waiting for your next discovery.</p>
+        </div>
     </div>
-    <div class="white-section">
-      <div class="diamond-container">
-        <div class="video-container top" (click)="enableVideoPlayback($event)">
-          <a [routerLink]="['/destination']">
-            <video class="content" loop (mouseover)="playVideo('Discover and Explore a Curated Selection of Exciting Travel Destinations')" (mouseout)="pauseVideo()">
-              <source src="/assets/world.mp4">
-            </video>
-          </a>
-        </div>
-        <div class="video-container right" (click)="enableVideoPlayback($event)">
-          <a [routerLink]="['/flight']">
-          <video class="content" onmouseover="this.play()" (mouseover)="playVideo('Seamlessly arrange your entire journey by securing hotel accommodations, flight reservations, and comprehensive travel packages')" onmouseout="this.pause();">
-            <source src="/assets/checklist.mp4">
-          </video>
-          </a>
-        </div>
-        <div class="video-container bottom" (click)="enableVideoPlayback($event)">
-          <video class="content"  onmouseover="this.play()" (mouseover)="playVideo('ALL SET! Enjoy')" onmouseout="this.pause();">
-            <source src="/assets/go.mp4">
-          </video>
-        </div>
-        <div class="video-container left" (click)="enableVideoPlayback($event)">
-          <video class="content"  onmouseover="this.play()" (mouseover)="playVideo('ALL SET! Enjoy')" onmouseout="this.pause();">
-            <source src="/assets/photo.mp4">
-          </video>
-        </div>
+
+    <!-- video-component.html -->
+<div class="container">
+  <div *ngFor="let video of videos; let i = index">
+    <div class="row" (mouseover)="onHover(i, true)" (mouseleave)="onHover(i, false)">
+      <div class="description">
+        <a [routerLink]="video.internalRoute" class="link">
+        <p>{{ video.description }}</p>
+      </a>
       </div>
-    </div>
+      <div class="video-wrapper">
+        <a [routerLink]="video.internalRoute" class="link">
+        <video autoplay muted loop>
+          <source [src]="video.src" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </a>
+      </div>
+      <div class="hover-text" [class.show]="hoverStates[i]">
+        <p>{{ video.hoverText }}</p>
+      </div>
+    </div> <!-- Add this line for internal routing -->
   </div>
-</main>
+</div>
+<div class="experience-section">
+  <h2>The TravelMate Experience</h2>
+  <p>
+    At TravelMate, we bring you a world of adventure and luxury, providing exceptional travel experiences at unbeatable value. Let us guide you to your dream destinations and create memories that last a lifetime. We ensure every trip is carefully curated, with personalized services and exclusive offers, making your journey as unique as you are. Whether you're seeking breathtaking landscapes, vibrant cultures, or serene getaways, TravelMate has the perfect itinerary tailored for you.
+  </p>
+</div>
 
-
-<footer>
-  <p>&copy; 2024 Your Company. All rights reserved.</p>
-</footer>
+    
