@@ -6,9 +6,6 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './home/login/login.component';
 import { RegistrationComponent } from './home/registration/registration.component';
-import { WhiteSectionComponent } from './home/white-section/white-section.component';
-import { BlackSectionComponent } from './home/black-section/black-section.component';
-import { HoverService } from './hover.service';
 import { DestinationComponent } from './destination/destination.component';
 import { FlightComponent } from './flight/flight.component';
 import { DisplayFlightsComponent } from './display-flights/display-flights.component';
@@ -19,8 +16,6 @@ import { DisplayFlightsComponent } from './display-flights/display-flights.compo
     HomeComponent,
     LoginComponent,
     RegistrationComponent,
-    WhiteSectionComponent,
-    BlackSectionComponent,
     DestinationComponent,
     FlightComponent,
     DisplayFlightsComponent
@@ -29,7 +24,7 @@ import { DisplayFlightsComponent } from './display-flights/display-flights.compo
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [HoverService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
